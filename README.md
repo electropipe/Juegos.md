@@ -25,4 +25,15 @@ Materiales: Un xilófono
 
 Enseñar el concepto de acorde mediante terceras con un patrón rítmico sencillo.   
 
+Expandir el juego añadiendo conceptos como:   
+Acordes mayores   
+Acordes menores   
+Tensión     
+Resolución    
+Progresiones     
+Arpegio 
+
+
 incorporarlo al ritmo base.
+
+
