@@ -36,4 +36,6 @@ Arpegio
 
 incorporarlo al ritmo base.
 
+Añadir el bajo como complemento armónico  
+
 
