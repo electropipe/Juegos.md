@@ -11,8 +11,8 @@ Percusión complementaria
 
  
 Con esto podemos añadir conceptos como:
-Loop
-Cambios de energía por capas 
-Fills o redobles
-Pregunta y respuesta
+Loop  
+Cambios de energía por capas    
+Fills o redobles    
+Pregunta y respuesta    
 
