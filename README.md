@@ -1,4 +1,4 @@
-## Juegos para aprendizaje de musica electronica.
+## Juegos para aprendizaje de música electrónica.
 
 ### 1.	 Ritmo Base   (4 personas)
 
@@ -19,7 +19,7 @@ Cambios de energía por capas
 Fills o redobles     
 Pregunta y respuesta     
 
-### 2.	Armonía  
+### 2.	Armonía  (1 o 2 personas)
 
 Materiales: Un xilófono   
 
@@ -34,15 +34,17 @@ Progresiones
 Arpegio 
 
 
-incorporarlo al ritmo base.
+Incorporarlo al ritmo base.
 
 Añadir el bajo como complemento armónico  
 
-### 3. Melodía   
+### 3. Melodía   (1 persona)
+Materiales: Un xilófono, piano, guitarra, flauta o Smartphone con alguna aplicación de algún instrumento melódico.
+
+
 Improvisar una melodía sencilla con notas de la armonía.   
 Frase inicial  (pregunta)   
 Frase cadencial  (respuesta)   
 Motivo   
-
 
 
