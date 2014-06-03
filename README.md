@@ -7,5 +7,12 @@ Ir añadiendo uno a uno cada instrumento:
 Bombo: en negras  
 Redoblante: tiempos 2 y 4  
 HH  corcheas en sincopa  
-Percusión complementaria    
+Percusión complementaria   
+
  
+Con esto podemos añadir conceptos como:
+Loop
+Cambios de energía por capas 
+Fills o redobles
+Pregunta y respuesta
+
