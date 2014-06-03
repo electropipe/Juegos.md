@@ -38,4 +38,11 @@ incorporarlo al ritmo base.
 
 Añadir el bajo como complemento armónico  
 
+### 3. Melodía   
+Improvisar una melodía sencilla con notas de la armonía.   
+Frase inicial  (pregunta)   
+Frase cadencial  (respuesta)   
+Motivo   
+
+
 
