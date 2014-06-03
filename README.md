@@ -10,9 +10,10 @@ HH  corcheas en sincopa
 Percusión complementaria   
 
  
-Con esto podemos añadir conceptos como:
-Loop  
-Cambios de energía por capas    
-Fills o redobles    
-Pregunta y respuesta    
+Con esto podemos añadir conceptos como:  
+
+Loop   
+Cambios de energía por capas     
+Fills o redobles     
+Pregunta y respuesta     
 
