@@ -1,11 +1,12 @@
 ## Juegos para aprendizaje de música electrónica.
 
+Jams sobre un patrón previamente establecido  
 
-Recursos:
+### *Recursos:*
 
-Charla ted sobre Chuck
-Cancionero Canto alegre adaptado a musica electronica.
+Charla ted sobre Chuck   
+Cancionero Canto alegre adaptado a música electrónica
 
-Jams sobre un patron previamente establecido
+
 
 
