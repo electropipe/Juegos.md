@@ -6,6 +6,7 @@ Jams sobre un patrón previamente establecido
 
 Charla ted sobre Chuck   
 Cancionero Canto alegre adaptado a música electrónica.
+Recordar didácticas de pedagogía de canto alegre..  las carticas de palabras por ejemplo   
 
 
 
