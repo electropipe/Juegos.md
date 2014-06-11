@@ -17,4 +17,5 @@ Usar la imaginación a favor. Inventar personajes que los enganchen, esto les ca
 La actitud del exponente debe ser siempre positiva.  
 Crear nuevos héroes y nuevos modelos.   
 Reconocer sus esfuerzos y felicitarles cuando lo intentan.    
-Explicarles el porqué de las cosas y porque deben hacerlas. Al entender es mucho mas fácil razonar y decidirse a colaborar.  
+Explicarles el porqué de las cosas y porque deben hacerlas. Al entender es mucho mas fácil razonar y decidirse a colaborar. Involucrarlos en decisiones para que se sientan cómplices y participes.    
+Para tareas complejas, partirlas en objetivos a corto plazo.     
