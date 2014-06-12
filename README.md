@@ -33,6 +33,8 @@ Implementar tresillos para los más avanzados.
 
 Usar las cartas de palabras para enseñar los roles del bombo, redo, HH y percusión.  
 
+<img src="http://i58.tinypic.com/m7b5sw.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
 Juntar palabras.   
 
 Silenciar silabas   
