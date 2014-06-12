@@ -10,11 +10,15 @@
 Condiciones: instrumento mínimo personal o percusión corporal.  
 
 Empezar todos en redondas e ir subdividiendo a blancas, negras, corcheas, semicorcheas.   
-(Cada cambio dura un compas)     
+(Cada cambio dura un compas)   
+
+<img src="http://i62.tinypic.com/28usq3l.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 Iniciar y devolverse  
 
-Hacer lo mismo pero esta vez cada integrante empieza desde una figura diferente   
+Hacer lo mismo pero esta vez cada integrante empieza desde una figura diferente  
+
+<img src="http://i62.tinypic.com/2euo486.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 Implementar tresillos para los más avanzados.  
 
