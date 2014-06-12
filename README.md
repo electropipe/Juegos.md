@@ -1,5 +1,51 @@
 ## Juegos para aprendizaje de música electrónica.
 
+*Desarrollar juegos de entrenamiento en donde para volverse un teso.*
+
+            
+Condiciones iniciales: instrumentos, número de personas.
+
+
+
+## Escalera Rítmica   
+*(Subdivisiones rítmicas)*
+
+Condiciones: instrumento mínimo personal o percusión corporal.
+
+Empezar todos en redondas e ir subdividiendo a blancas, negras, corcheas, semicorcheas. 
+(Cada cambio dura un compas)
+Iniciar y devolverse
+Hacer lo mismo pero esta vez cada integrante empieza desde una figura diferente
+Implementar tresillos para los más avanzados.
+
+Cartas de Palabras 
+Usar las cartas de palabras para enseñar los roles del bombo, redo, HH y percusión.
+Juntar palabras.
+Silenciar silabas
+Crear partituras juntando varias palabras, Hacer frases.
+
+
+Entrenador de ritmos
+Ejercicio en grupo con instrumento mínimo.
+Empezamos con bombo en negras como base.
+Añadimos redoblante
+Añadimos HH
+Añadimos percusión
+Los participantes cambian de instrumentos 
+Añadimos una variación para cada instrumento.
+
+Pregunta y respuesta
+Improvisación rítmica.
+Empezamos con un loop básico
+Asignamos instrumentos
+El director pregunta y los participantes responden de a uno.
+
+
+Entrenador de melodías
+Entrenador de armonías
+Entrenador de bajos
+
+
 Jams sobre un patrón previamente establecido  
 
 ### *Recursos:*
