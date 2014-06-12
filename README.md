@@ -45,7 +45,7 @@ Crear partituras juntando varias palabras, Hacer frases.
 
 ## Entrenador de ritmos   
 
-Ejercicio en grupo con instrumento mínimo.  
+Condiciones: instrumento mínimo personal o percusión corporal.  
 
 Empezamos con bombo en negras como base.  
 
@@ -58,6 +58,7 @@ Añadimos percusión
 Los participantes cambian de instrumentos   
 
 Añadimos una variación para cada instrumento.   
+
 
 ## Pregunta y respuesta   
 
