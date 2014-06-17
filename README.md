@@ -47,6 +47,8 @@ Crear partituras juntando varias palabras, Hacer frases.
 
 ## Entrenador de ritmos   
 
+*Aplicación: Aprender los roles de cada instrumento.*
+
 Condiciones: instrumento mínimo personal o percusión corporal.  
 
 Empezamos con bombo en negras como base.  
