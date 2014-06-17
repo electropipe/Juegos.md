@@ -76,10 +76,6 @@ El director pregunta y los participantes responden de a uno.
 
 
 
-## Entrenador de melodías   
-## Entrenador de armonías   
-## Entrenador de bajos   
-
 
 Jams sobre un patrón previamente establecido  
 
