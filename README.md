@@ -5,7 +5,7 @@
 
 
 ## Escalera Rítmica     
-*(Subdivisiones rítmicas)*  
+*Aplicación: Fortalecer el sentido rítmico y subdivisiones ritmicas*    
 
 Condiciones: instrumento mínimo personal o percusión corporal.  
 
