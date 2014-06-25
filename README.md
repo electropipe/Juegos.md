@@ -3,6 +3,13 @@
 *Desarrollar juegos de entrenamiento para volverse un teso.*  
 
 
+## Repertorio de Música Electrónica
+
+[Operacion Orquidea](http://picosong.com/PuE6)
+[La Ultima Granada_Techno](http://picosong.com/Pu8F)
+[Debut](http://picosong.com/PuEz)   
+
+
 
 ## Escalera Rítmica     
 *Aplicación: Fortalecer el sentido rítmico y subdivisiones ritmicas*    
